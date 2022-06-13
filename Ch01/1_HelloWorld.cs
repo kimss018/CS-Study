@@ -25,6 +25,9 @@ namespace Ch01
 
             //포맷출력
             Console.WriteLine("{0},{1}", "Hello", "Busan");
+
+	// 집에서 수정
+	Console.Write("집이다.");	
         }
 
     }
