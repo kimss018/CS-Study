@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Book.Ch07.Sub1
 {
-    internal class Dog : Animal
+    internal class Dog :Animal
     {
         public int Age { get; set; }
         public string Color { get; set; }   

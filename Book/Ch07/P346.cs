@@ -1,4 +1,4 @@
-﻿using Book.Ch07.Sub1;
+﻿using Book.Ch07.Sub2;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,8 +21,8 @@ namespace Book.Ch07
                 item.Eat();
                 item.Sleep();
 
-                if (item is Dog) { }
-                if (item is Cat) { }
+                if (item is Dog) { ((Dog)item).Bark(); }
+                if (item is Cat) { ((Cat)item).Meow(); }
             }
         }
     }

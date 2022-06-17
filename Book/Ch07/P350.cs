@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 
 namespace Book.Ch07
 {
-    
-     internal class P342
+    internal class P350
     {
         static void Main1(string[] args)
         {
@@ -21,9 +20,13 @@ namespace Book.Ch07
             {
                 item.Eat();
                 item.Sleep();
-                
+
+                var dog = item as Dog;
+                if (dog != null) { dog.Bark(); }
+
+                var cat = item as Cat;
+                if (cat != null) { cat.Meow(); }
             }
         }
     }
-    
 }
