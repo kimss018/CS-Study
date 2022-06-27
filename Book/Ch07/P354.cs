@@ -26,7 +26,7 @@ namespace Book.Ch07
             }
         }
 
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             Parent parent = new Parent();
             Child child = new Child();
@@ -35,7 +35,7 @@ namespace Book.Ch07
             child.CountChild();
 
             Console.WriteLine(Parent.counter);
-            Console.WriteLine(Child.counter);
+            
             Console.WriteLine(Child.counter);
         
 
