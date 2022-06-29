@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test.Final1
+namespace Test.Final01
 {
     internal class _1_04
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string input;
             int value;
