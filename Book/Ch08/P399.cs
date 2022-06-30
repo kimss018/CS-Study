@@ -22,7 +22,7 @@ namespace Book.Ch08
 
     internal class P399
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             SquareCalculator square = new SquareCalculator();
             Console.WriteLine(square[10]);
