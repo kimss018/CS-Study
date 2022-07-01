@@ -8,7 +8,7 @@ using System.Threading.Tasks;
  * 날짜 : 2022/06/21
  * 이름 : 김효경
  * 내용 : 데이터베이스 프로그래밍 실습
- * 
+ *  
  * MySQL 패키지 설치
  *   도구 - NuGet 패키지 관리자 - 솔루션용 NuGet 패키지 관리... - myspl 검색 - MySql.Data 설치 
  */
