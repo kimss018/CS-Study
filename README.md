@@ -18,7 +18,7 @@
 ## Ch09
 
 ## Project1. 계산기
-C:\Users\1302\Desktop\Study\Project1
+![](https://github.com/kimss018/CS-Study/blob/main/Project1/Project1.png)
 1. 프로젝트 유형
    - WinForm 프로젝트
 2. 활용기술
