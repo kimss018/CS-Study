@@ -41,6 +41,7 @@
    - 이벤트와 핸들러
 
 ## Project4. 벽돌깨기
+![Project4](https://user-images.githubusercontent.com/106726051/176803719-869ee33f-7bc9-487e-84e0-cd99a5ac5800.png)
 1. 프로젝트 유형
    - WinForm 프로젝트
 2. 활용기술
