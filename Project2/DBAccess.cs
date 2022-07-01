@@ -18,7 +18,7 @@ namespace Project2
         private const string TABLE = "user2";
 
         // 싱글톤
-        private static DBAccess instance = new DBAccess();
+        private static DBAccess instance = new DBAccess(); 
         public static DBAccess Instance { get { return instance; } }
         private DBAccess() { }
 
