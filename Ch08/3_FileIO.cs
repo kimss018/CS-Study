@@ -17,7 +17,7 @@ namespace Ch08
 {
     internal class _3_FileIO
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             ///////////////////////////
             // 파일 입력 ( Read )
@@ -95,7 +95,7 @@ namespace Ch08
             try
             {
                 using StreamReader reader = new StreamReader(new FileStream(f1, FileMode.Open));
-                using StreamWriter writer = new StreamWriter(new FileStream(f3, FileMode.Open));
+                using StreamWriter writer = new StreamWriter(new FileStream(f3, FileMode.Create));
 
                 string txt;
 
