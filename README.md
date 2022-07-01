@@ -18,7 +18,7 @@
 ## Ch09
 
 ## Project1. 계산기
-(./Project1/Project1.png)
+C:\Users\1302\Desktop\Study\Project1
 1. 프로젝트 유형
    - WinForm 프로젝트
 2. 활용기술
