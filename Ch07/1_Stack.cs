@@ -7,7 +7,7 @@ using System.Threading.Tasks;
  * 날짜 : 2022/06/15
  * 이름 : 김효경 
  * 내용 : 컬렉션 스택 실습
- */
+ */ 
 namespace Ch07
 {
     internal class _1_Stack
