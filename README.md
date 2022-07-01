@@ -26,6 +26,7 @@
    - 이벤트와 핸들러
 
 ## Project2. 데이터 매니저
+![](https://github.com/kimss018/CS-Study/blob/main/Project2/Project2.png)
 1. 프로젝트 유형
    - WinForm 프로젝트
 2. 활용기술
@@ -34,6 +35,7 @@
    - 데이터베이스와 SQL
 
 ## Project3. 오목
+![](https://github.com/kimss018/CS-Study/blob/main/Project3/Project3.png)
 1. 프로젝트 유형
    - WinForm 프로젝트
 2. 활용기술
@@ -41,7 +43,7 @@
    - 이벤트와 핸들러
 
 ## Project4. 벽돌깨기
-![Project4](https://user-images.githubusercontent.com/106726051/176803719-869ee33f-7bc9-487e-84e0-cd99a5ac5800.png)
+![](https://github.com/kimss018/CS-Study/blob/main/Project4/Project4.png)
 1. 프로젝트 유형
    - WinForm 프로젝트
 2. 활용기술
