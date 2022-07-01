@@ -24,7 +24,7 @@ namespace Project3
             // 그래픽 관련 객체 초기화 
             g = this.CreateGraphics();
             pen = new Pen(Color.Black);
-            wBrush = new SolidBrush(Color.White);
+            wBrush = new SolidBrush(Color.White); 
             bBrush = new SolidBrush(Color.Black);
 
 
