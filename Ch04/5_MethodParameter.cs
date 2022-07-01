@@ -8,7 +8,7 @@ using System.Threading.Tasks;
  * 이름 : 김효경
  * 내용 : 메서드 출력전용 매개변수
  * 
- * 출력 매개변수 ref
+ * 출력 매개변수 ref 
  *  - 변수의 reference(주소)값으로 참조값이 가리키는 실제변수에 값을 대입하는 매개변수 
  *  
  *  출렵 매개변수 out
