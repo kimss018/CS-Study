@@ -18,9 +18,32 @@
 ## Ch09
 
 ## Project1. 계산기
-![Project1] (./Project1/Project1.png)
+
+![Project1] (Project1/Project1.png)
 1. 프로젝트 유형
-  - WinForm 프로젝트
+   - WinForm 프로젝트
 2. 활용기술
-  - 컨트롤
-  - 이벤트와 핸들러
+   - 컨트롤
+   - 이벤트와 핸들러
+
+## Project2. 데이터 매니저
+1. 프로젝트 유형
+   - WinForm 프로젝트
+2. 활용기술
+   - 컨트롤
+   - 이벤트와 핸들러
+   - 데이터베이스와 SQL
+
+## Project3. 오목
+1. 프로젝트 유형
+   - WinForm 프로젝트
+2. 활용기술
+   - 윈도우 그래픽
+   - 이벤트와 핸들러
+
+## Project4. 벽돌깨기
+1. 프로젝트 유형
+   - WinForm 프로젝트
+2. 활용기술
+   - 윈도우 그래픽
+   - Timer와 핸들러
