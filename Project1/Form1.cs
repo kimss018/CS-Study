@@ -18,7 +18,7 @@ namespace Project1
             InitializeComponent();
         }
 
-        private void btn7_Click(object sender, EventArgs e)
+        private void btn7_Click(object sender, EventArgs e) 
         {
             list.Add(7);
 
